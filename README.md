@@ -14,6 +14,6 @@ Debug: `darwindows --debug <file>` <br>
 ### Compile samples
 1. Install Zig/Clang if you don't have it
 2. Download the code of the sample
-3. Run this in your terminal depending on what you have <br>
+3. Run this in your terminal depending on what you have: <br>
    Zig: `zig cc <file> -o <output> -target x86_64-macos -nostdlib -ffreestanding` <br>
    Clang: `clang <file> -o <output> -target x86_64-apple-darwin -nostdlib -ffreestanding`
