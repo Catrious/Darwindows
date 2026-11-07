@@ -1,6 +1,6 @@
 # DarWindows
 A translation layer for Windows to run Darwin binaries. <br>
-Darwindows is similar to Darling, although it runs natively on Windows. <br>
+DarWindows runs macOS binaries, but none commercial. You must compile a custom app to run in DarWindows. <br>
 WARNING: Darwindows is in alpha stages and supports only some Darwin apps. <br>
 NOTE: To use GUI on DarWindows, you need to call 0x2000999 for message box or 0x2000999A for text box. <br>
 ## Usage
